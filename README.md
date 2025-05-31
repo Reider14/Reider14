@@ -1,6 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Reider14/Reider14/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
+<H1>Hello, I' am Haider Guilherme</H1>
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> Stundet Computing engineer passionate about the code and all the magic we can make we this. I like so much of Web Developement, Software Enginner, Grafic Computing and i am so many curios about Cybersecurity</p>&nbsp;
@@ -35,8 +34,8 @@
 ![BITCOIN](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Node.js]([https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Flutter]((https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white))&nbsp;
+![Node.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 
 
 #### Databases:

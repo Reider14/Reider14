@@ -2,7 +2,7 @@
 <H1 align="center">Hello, I' am Haider Guilherme</H1> 
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Studnet of Computing engineer passionate about the code and all the magic we can make we this. I like so much of Web Developement, Software Enginner, Grafic Computing and i am so many curios about Cybersecurity</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> Student of Computing engineer passionate about the code and all the magic we can make we this. I like so much of Web Developement, Software Enginner, Grafic Computing and i am so many curios about Cybersecurity</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Reider14&theme=radical&mode=weekly" />
